@@ -1,0 +1,14 @@
+body {
+  background: lightgoldenrodyellow;
+}
+
+h1,
+p,
+nav {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
